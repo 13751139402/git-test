@@ -1,3 +1,6 @@
 新文件测试
 master第二个节点
 冲突点来了
+rebase 10
+rebase 2
+rebase 3
